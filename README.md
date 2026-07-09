@@ -1,10 +1,15 @@
-## Hi , I'm Aansal 
+<h1 align="center">Hi 👋, I'm Aansal</h1>
+<h3 align="center">Currently pursuing B.tech in Cse in Chitkara university</h3>
 
+- 🌱 I’m currently learning **Java,python,c,html**
 
+- 💬 Ask me about **my interests**
 
-- 🔭 I’m currently studying at chitkara university
-- 🌱 I’m currently learning Java,Oops,python,c,html,css.
-- 👯 I’m looking to collaborate with google,microsoft.
-- 💬 Ask me about my hobbies,interest.
-- 📫 reach me through aansal280@gmail.com
+- 📫 How to reach me **aansal280@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
